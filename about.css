@@ -1,4 +1,27 @@
 body {
   margin: 20px;
+  background-image: url(bg.JPG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
-          
+
+a{
+  color:darkorange;
+  padding-right: 1%;
+  display: inline;
+  text-decoration: none;
+}
+
+a:hover{
+  color: brown;
+}
+
+*{
+  font-size: xx-large;
+}
+
+h1, h2{
+  font-size: larger;
+}
